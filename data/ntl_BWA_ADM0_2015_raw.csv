@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+68990947B38995363734097,Botswana,576962,627730,10601.6,9670.17,0.0183749,0.0168888,0,0,48.337,3486.2,0.00604233,209.319,0.000362795,2.17889e+06,2.0178e+06,849657,1.16815e+06,0.42108,3.7765,0.0048656,0.997504,0.833816,25.4582,1,1,1
